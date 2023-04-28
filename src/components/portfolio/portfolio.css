@@ -14,10 +14,6 @@
     transition: width 0.2s, height 0.4s;
 }
 
-.project-logo:hover {
-    width: 180px;
-}
-
 section.portfolio-section {
     padding: 20px;
 }
@@ -71,21 +67,6 @@ section.portfolio-section > h1 {
     color: #000000;
 }
 
-#portfolio > section.portfolio.squares > section > section.technologies > section > .svg-inline--fa:hover {
-    color: #813772;
-}
-
-#portfolio > section.portfolio.mumu > section > section.technologies > section > .svg-inline--fa:hover {
-    color: #FC4A1A;
-}
-
-#portfolio > section.portfolio.south-moon-under > section > section.technologies > section > .svg-inline--fa:hover {
-    color: #64adb7;
-}
-
-#portfolio > section.portfolio.yoga-by-deborah > section > section.technologies > section > .svg-inline--fa:hover {
-    color: #8b7361;
-}
 
 section.technologies {
     margin: 20px 0px;
@@ -98,10 +79,6 @@ img.project-screenshot {
     transition: width 0.2s, height 0.4s;
 }
 
-img.project-screenshot:hover {
-    width: 98%;
-}
-
 .linkout {
     margin: 0px 10px;
     text-decoration: none;
@@ -112,11 +89,6 @@ img.project-screenshot:hover {
     margin: 0px 5px;
     font-size: 50px;
 }
-
-.svg-inline--fa:hover {
-    color: #ff533d;
-}
-
 
 
 @media only screen and (max-width: 600px) {
